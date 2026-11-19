@@ -1,0 +1,8 @@
+                 precision    recall  f1-score   support
+
+   HEM (normal)     0.7855    0.6836    0.7310       648
+ALL (leucêmica)     0.8427    0.9007    0.8707      1219
+
+       accuracy                         0.8254      1867
+      macro avg     0.8141    0.7922    0.8009      1867
+   weighted avg     0.8228    0.8254    0.8222      1867

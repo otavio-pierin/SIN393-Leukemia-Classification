@@ -1,0 +1,4 @@
+modelo_A,modelo_B,A_acerta_B_erra,A_erra_B_acerta,p_valor,significativo_5pct,f1_macro_A,f1_macro_B
+resnet50,densenet121,126,171,0.010554214314217792,True,0.765473283666003,0.802081685441086
+resnet50,efficientnet_b3,125,169,0.012018586451224571,True,0.765473283666003,0.8008803061114993
+densenet121,efficientnet_b3,115,114,1.0,False,0.802081685441086,0.8008803061114993

@@ -1,0 +1,19 @@
+{
+  "SEED": 42,
+  "IMG_SIZE": 224,
+  "BATCH_SIZE": 32,
+  "EPOCHS": 25,
+  "LR": 0.0001,
+  "WEIGHT_DECAY": 0.0001,
+  "PATIENCE": 6,
+  "VAL_SIZE": 0.15,
+  "TEST_STRATEGY": "prelim",
+  "MODEL_NAMES": [
+    "resnet50",
+    "densenet121",
+    "efficientnet_b3"
+  ],
+  "PRETRAINED": true,
+  "QUICK_RUN": false,
+  "device": "cuda"
+}

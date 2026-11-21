@@ -3,7 +3,7 @@
 **SIN 393 – Introdução à Visão Computacional (2026)** · Universidade Federal de Viçosa – Campus Rio Paranaíba
 Prof. João Fernando Mari
 
-**Integrantes:** Otavio Silva Pierin - 9339, Breno Silva Pierin - 8154, Lucas Brasil
+**Integrantes:** Otavio Silva Pierin - 9339, Breno Silva Pierin - 8154, Lucas Brasil - 8755
 **Vídeo de apresentação (YouTube):** _[[inserir link](https://youtu.be/kVp7HuPlALA)]_
 
 ---

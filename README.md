@@ -5,7 +5,7 @@ Prof. João Fernando Mari
 
 **Integrantes:** Otavio Silva Pierin - 9339, Breno Silva Pierin - 8154, Lucas Brasil - 8755
 
-**Vídeo de apresentação (YouTube):** _[[inserir link](https://youtu.be/kVp7HuPlALA)]_
+**Vídeo de apresentação (YouTube):** _[[Vídeo de apresentação](https://youtu.be/kVp7HuPlALA)]_
 
 ---
 
